@@ -88,7 +88,8 @@ Italian Cuisine Reviews: 189,405
 
 - Bigram and Trigram Analysis
 
-**Project Navigation**
+
+## Project Navigation
 The project is organized into multiple Python files:
 
 ***CIS-509-Yelp-Data-Analysis-Project-Part-1.ipynb:***
@@ -113,7 +114,7 @@ The project is organized into multiple Python files:
 
 - Final presentation slides summarizing the project findings
 
-**Recommendations**
+## Recommendations
 
 - Focus on improving food quality across all cuisines
 
@@ -131,7 +132,7 @@ The project is organized into multiple Python files:
 
   - Chinese: Improve service quality
 
-**Tools and Technologies Used**
+## Tools and Technologies Used
 
 - Python
 
@@ -145,7 +146,7 @@ The project is organized into multiple Python files:
 
 - BERTopic
 
-**Future Work**
+## Future Work
 
 - Incorporate more advanced natural language processing techniques
 
@@ -153,7 +154,7 @@ The project is organized into multiple Python files:
 
 - Investigate the impact of external factors (e.g., economic conditions, seasonal variations) on restaurant ratings
 
-**Contributors**
+## Contributors
 
 Ayush Trivedi
 
