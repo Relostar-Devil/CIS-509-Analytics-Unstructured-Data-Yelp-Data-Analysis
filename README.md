@@ -110,9 +110,6 @@ The project is organized into multiple Python files:
 
 - Regional and Cuisine Comparison
 
-***CIS509_FINAL_PROJECT_PPT.pptx:***
-
-- Final presentation slides summarizing the project findings
 
 ## Recommendations
 
