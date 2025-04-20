@@ -150,15 +150,3 @@ The project is organized into multiple Python files:
 - Analyze temporal trends in reviews and ratings
 
 - Investigate the impact of external factors (e.g., economic conditions, seasonal variations) on restaurant ratings
-
-## Contributors
-
-Ayush Trivedi
-
-Dheeraj Pamnani
-
-Dominic Darrah
-
-Riya Agarwal
-
-Sravani Bolla
